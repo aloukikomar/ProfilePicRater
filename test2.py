@@ -1,0 +1,12 @@
+sentence = "ABCDEFGHI{0}".format("sentenc")
+print (sentence.lower()[4:])
+num=[1,3,4,5]
+print(num)
+num.append(6)
+print(num)
+num.insert(1,2)
+print(num)
+num.remove(1)
+print(num)
+num.pop(4)
+print(num)
